@@ -1,7 +1,6 @@
 import os
 
 print("Automatic Wİ-Fİ Stealer (works with wifite)")
-time.sleep(1)
 print("coded by root@ebby")
 
 print("""
