@@ -1,5 +1,4 @@
 import os
-import time
 
 print("Automatic Wİ-Fİ Stealer (works with wifite)")
 time.sleep(1)
